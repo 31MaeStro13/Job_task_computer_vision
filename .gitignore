@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+answers_train.jsonl
+answers_pipeline.jsonl
+.DS_Store
